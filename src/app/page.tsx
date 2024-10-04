@@ -1,3 +1,5 @@
+import SignIn from "@/components/SignIn";
+
 export default function Home() {
-  return <h1>Next js application</h1>;
+  return <SignIn />;
 }
